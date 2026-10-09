@@ -1,0 +1,6 @@
+{
+  "name": "Manage-code",
+  "description": "سامانه صنعتی تولید و مدیریت کدهای فعالسازی و لایسنس نرم‌افزار دیاگ خودرویی هوشدار (Hoshdar Diag License Manager)",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
